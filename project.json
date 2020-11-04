@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Platformer",
+  "id": "32f2bc0e-acba-4256-a203-91d29486d003",
+  "version": "2.4.3",
+  "isNew": false
+}
